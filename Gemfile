@@ -19,7 +19,7 @@ group :test, :development do
 end
 
 group :test do
-  gem 'rspec', '~> 3.4'
+  gem 'rspec', '~> 3.9'
   gem 'rspec_junit_formatter'
   gem 'rubocop', '~> 0.53', require: false
   gem 'simplecov', '~> 0.15.1'
