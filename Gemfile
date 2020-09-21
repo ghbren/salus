@@ -15,7 +15,7 @@ gem 'toml', '~> 0.1.2'
 
 group :test, :development do
   gem 'pry', '~> 0.10'
-  gem 'pry-byebug', '~> 3.4'
+  gem 'pry-byebug', '~> 3.8'
 end
 
 group :test do
