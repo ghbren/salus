@@ -14,7 +14,7 @@ gem 'thor', '~> 0.19.4'
 gem 'toml', '~> 0.1.2'
 
 group :test, :development do
-  gem 'pry', '~> 0.10'
+  gem 'pry', '~> 0.13'
   gem 'pry-byebug', '~> 3.4'
 end
 
