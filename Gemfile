@@ -4,7 +4,7 @@ ruby '2.4.6'
 
 gem 'activesupport', '~> 5.2', '>= 5.2.1'
 gem 'brakeman', '~> 4.7'
-gem 'bugsnag', '~> 4.0'
+gem 'bugsnag', '~> 6.17'
 gem 'bundler', '~> 2'
 gem 'bundler-audit', '~> 0.6.1'
 gem 'faraday', '~> 0.9'
