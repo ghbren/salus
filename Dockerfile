@@ -1,4 +1,4 @@
-FROM ruby:2.4.6@sha256:3a31984805c5ad3b54baeb93d2c01c46845f681b712394b02d2e860cb5d5946b
+FROM ruby:3.0.0@sha256:9719b7df964602b114a5e9319bd0a3ce2d4d44ccb7ea4d1702fa1ef9742a8f84
 
 MAINTAINER security@coinbase.com
 
